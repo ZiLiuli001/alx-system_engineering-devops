@@ -1,1 +1,1 @@
-1-listit
+changes the working directory to the user’s home directory
